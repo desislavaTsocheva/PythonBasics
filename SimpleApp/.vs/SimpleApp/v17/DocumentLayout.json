@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LearnPython\\SimpleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E6E57E-A72F-451E-9FD1-DFEEEFBB3A15}|SimpleApp\\SimpleApp.pyproj|C:\\Users\\ASUS\\Desktop\\LearnPython\\SimpleApp\\SimpleApp\\SimpleApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43E6E57E-A72F-451E-9FD1-DFEEEFBB3A15}|SimpleApp\\SimpleApp.pyproj|solutionrelative:SimpleApp\\SimpleApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleApp.py",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LearnPython\\SimpleApp\\SimpleApp\\SimpleApp.py",
+              "RelativeDocumentMoniker": "SimpleApp\\SimpleApp.py",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LearnPython\\SimpleApp\\SimpleApp\\SimpleApp.py",
+              "RelativeToolTip": "SimpleApp\\SimpleApp.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-01T16:30:58.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
